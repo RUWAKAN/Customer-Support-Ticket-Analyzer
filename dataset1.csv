@@ -1,0 +1,7 @@
+text,Predicted Issue Type,Predicted Urgency Level,Extracted Entities,timestamp
+"I ordered SoundWave 300 but got EcoBreeze AC instead. My order number is #36824.
+",Wrong Item,High,"{""products"": [""SoundWave 300"", ""EcoBreeze AC""], ""dates"": [], ""complaint_keywords"": []}",2025-06-03 14:45:37.918692
+,Late Delivery,Low,"{""products"": [""Vision LED TV""], ""dates"": [], ""complaint_keywords"": [""late""]}",2025-06-03 14:49:50.163936
+"Order #30903 for Vision LED TV is 13 days late. Ordered on 03 March. Also, I contacted support on 03 March but got no response.
+",Late Delivery,Low,"{""products"": [""Vision LED TV""], ""dates"": [], ""complaint_keywords"": [""late""]}",2025-06-03 14:51:09.381801
+"{""products"": [""Vision LED TV""], ""dates"": [], ""complaint_keywords"": [""late""]}",Late Delivery,Low,"{""products"": [""Vision LED TV""], ""dates"": [], ""complaint_keywords"": [""late""]}",2025-06-03 14:52:11.361158
